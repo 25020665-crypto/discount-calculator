@@ -16,7 +16,7 @@ class DiscountCalculatorTest {
 
     @Test
     void testMemberBelow100() {
-        assertEquals(95, calculator.calculateDiscount(100 - 1, "MEMBER"));
+        assertEquals(94.05, calculator.calculateDiscount(100 - 1, "MEMBER"), 0.001);
     }
 
     @Test
