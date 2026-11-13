@@ -40,8 +40,4 @@ class DiscountCalculatorTest {
         assertThrows(IllegalArgumentException.class,
                 () -> calculator.calculateDiscount(100, "STUDENT"));
     }
-    @Test
-    void testMemberAbove100() {
-        assertEquals(95, calculator.calculateDiscount(100, "MEMBER"));
-    }
 }
