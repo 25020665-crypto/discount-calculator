@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa9ebcba-00ba-4a1b-93a7-709549e9204b" name="Changes" comment="test lại" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "25020665-crypto"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/25020665-crypto/discount-calculator.git",
+    "accountId": "48514539-3b6e-4bb4-b394-56f3a6ee82cf"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.059154104528865" />
+      <entry key="MS500" value="1.8574835440999395" />
+      <entry key="S2" value="3.24189198240168" />
+      <entry key="S5" value="4.4183658463488635" />
+      <entry key="S10" value="5.089618467023013" />
+      <entry key="S30" value="5.664547232853676" />
+      <entry key="S60" value="5.8278764992822465" />
+      <entry key="M2" value="5.912806566253286" />
+      <entry key="M5" value="5.964846760220883" />
+      <entry key="M10" value="5.9823770423221285" />
+      <entry key="M15" value="5.9882410374132915" />
+      <entry key="M30" value="5.994115349910076" />
+      <entry key="H1" value="5.997056381492573" />
+      <entry key="H2" value="5.998527867222614" />
+      <entry key="H4" value="5.999263852710624" />
+      <entry key="D1" value="5.999877297547219" />
+      <entry key="W1" value="5.999982470802939" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0304735893617536" />
+      <entry key="MS500" value="1.8441215774329447" />
+      <entry key="S2" value="3.23350506454534" />
+      <entry key="S5" value="4.41280453302691" />
+      <entry key="S10" value="5.086152742525247" />
+      <entry key="S30" value="5.663189266826494" />
+      <entry key="S60" value="5.827168224338888" />
+      <entry key="M2" value="5.912444773723653" />
+      <entry key="M5" value="5.964700161848894" />
+      <entry key="M10" value="5.982303425826782" />
+      <entry key="M15" value="5.988191888956258" />
+      <entry key="M30" value="5.994090740214506" />
+      <entry key="H1" value="5.997044067764817" />
+      <entry key="H2" value="5.998521708137092" />
+      <entry key="H4" value="5.999260772612244" />
+      <entry key="D1" value="5.9998767841203025" />
+      <entry key="W1" value="5.999982397454348" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3M1rxOW8aaCijSflikGEP9K83Rr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9ebcba-00ba-4a1b-93a7-709549e9204b" name="Changes" comment="" />
+      <created>1794529160638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794529160638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Initial Maven project" />
+    <MESSAGE value="test lại" />
+    <option name="LAST_COMMIT_MESSAGE" value="test lại" />
+  </component>
+</project>
